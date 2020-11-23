@@ -6,6 +6,7 @@ func main() {
 	var myMap = make(map[string]int)
 	fmt.Println(myMap)
 
+	// zero value
 	if myMap == nil {
 		fmt.Println("myMap = nil")
 	} else {
