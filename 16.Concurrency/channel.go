@@ -5,6 +5,7 @@ package main
 	- Parallelism is about "doing" lots of things at once (with condition CPU need to upper 2 core) - 'Rob Pike'
 	- Do not communicate by sharing memory; instead, share memory by communicating
 	https://www.youtube.com/watch?v=KmJ-Phn49jA&list=PLVDJsRQrTUz5icsxSfKdymhghOtLNFn-k&index=5
+	https://www.youtube.com/playlist?list=PLlahAO-uyDzIVzBvRKwKUDjj2Iaq-5W9l
 */
 
 import (
