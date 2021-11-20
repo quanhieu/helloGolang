@@ -1,0 +1,21 @@
+{
+  "name": "hellogolang_ver2",
+  "version": "1.0.1",
+  "description": "Hot reload for go",
+  "scripts": {
+    "dev": "nodemon --exec go run ver_2/4.Array_slice/main.go --signal SIGTERM"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quanhieu/helloGolang.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quanhieu/helloGolang/issues"
+  },
+  "homepage": "https://github.com/quanhieu/helloGolang#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
