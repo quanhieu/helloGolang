@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "Hot reload for go",
   "scripts": {
-    "dev": "nodemon --exec go run ver_2/4.Array_slice/main.go --signal SIGTERM"
+    "dev": "nodemon --exec go run ver_2/7.Loop/main.go --signal SIGTERM"
   },
   "repository": {
     "type": "git",
