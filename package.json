@@ -3,7 +3,8 @@
   "version": "1.0.1",
   "description": "Hot reload for go",
   "scripts": {
-    "dev": "nodemon --exec go run ver_2/11.Interface/main.go --signal SIGTERM"
+    "dev": "nodemon --exec go run ver_2/15.Worker_pool/main.go --signal SIGTERM",
+    "dev-hard": "cd ./ver_2/17.Creational_pattern-Builder && nodemon --exec go run main.go --signal SIGTERM"
   },
   "repository": {
     "type": "git",
